@@ -5,13 +5,13 @@
     "address1": "1415 5th Ave",
     "airportCode": "SEA",
     "city": "Seattle",
-    "hotelId": 125727,
+    "hotelId": 125727
   },
   {
     "name": "The Westin Seattle",
     "address1": "1900 5th Ave",
     "airportCode": "SEA",
     "city": "Seattle",
-    "hotelId": 164122,
+    "hotelId": 164122
   }]
 }
